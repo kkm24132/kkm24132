@@ -4,6 +4,10 @@ Kamal is a Data and AI Leader having a good track record of digital transformati
 
 In the last eight to ten years, Kamal has focused on building products and solved business use cases using Data Science extensively. He is recognized globally as Certified Master Data Scientist from "The Open Group". His implementations span across the areas of Predictive Maintenance, Anomaly Detection, Classification, Forecasting, Clustering, Recommender Systems demonstrating real-life solutions creating impact. He has 2 patents, 4 defensive publications, 10+ published blogs on various publication forums through the medium, presented as a keynote speaker, acted as a moderator in CXO forums. He holds a Bachelor in Computer Science from VSSUT, one year SMP from IIM Calcutta and one year CBA from Indian School of Business, Hyderabad.
 
+
+![Kamal GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm24132&show_icons=true&theme=vue)
+
+
 <!--
 **kkm24132/kkm24132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
