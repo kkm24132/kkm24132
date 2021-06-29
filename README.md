@@ -8,8 +8,9 @@ In the last eight to ten years, Kamal has focused on building products and solve
 
 ![Kamal GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm24132&show_icons=true&theme=vue)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkm24132)](https://github.com/kkm24132/github-readme-stats)
-
+-->
 
 
 <!--
