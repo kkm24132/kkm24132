@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Kamal's GitHub Zone 👋
 
 Kamal is a Data and AI Leader having a good track record of digital transformations leveraging Data Science and AI. With more than 2 decades of experience, he brings a unique blend of strategic thinking, consultative approach, innovation dimension, data-driven decision making, people leadership, deep data science expertise coupled with industry experience with an open mindset to help build and scale businesses and outcomes for customers. He has industry experience in BFSI, Retail & CPG, and other industries using Machine Learning methods.
 
