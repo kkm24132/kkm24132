@@ -4,7 +4,17 @@ Kamal is a Data and AI Leader having a good track record of digital transformati
 
 In the last eight to ten years, Kamal has focused on building products and solved business use cases using Data Science extensively. He is recognized globally as Certified Master Data Scientist from "The Open Group". His implementations span across the areas of Predictive Maintenance, Anomaly Detection, Classification, Forecasting, Clustering, Recommender Systems demonstrating real-life solutions creating impact. He has 2 patents, 4 defensive publications, 10+ published blogs on various publication forums through the medium, presented as a keynote speaker, acted as a moderator in CXO forums. He holds a Bachelor in Computer Science from VSSUT, one year SMP from IIM Calcutta and one year CBA from Indian School of Business, India.
 
-## Experience of some Key [Projects/Initiatives/Product Development](https://github.com/kkm24132/Products_Projects_Initiatives/blob/main/README.md) Efforts
+### Experience of few Key [Projects/Initiatives/Product Development](https://github.com/kkm24132/Products_Projects_Initiatives/blob/main/README.md) Efforts
+
+### Recent Appearances in Public Domain 
+**Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
+
+- June 2021: Webinar on [Accelerate Data Science and Responsible AI](https://www.linkedin.com/feed/update/urn:li:activity:6811518760365764608) The [YouTube Link](https://www.youtube.com/watch?v=WcsL7qs4nuY)
+- May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
+
+
+### [Medium.com Profile - Kamal on Blogs, PoVs](https://medium.com/@mishra.kamal)
+### [Google Scholar Link - Kamal](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
 
 
 👋
