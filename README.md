@@ -8,6 +8,8 @@ He holds a Bachelor in Computer Science from VSSUT, one year Senior Management P
 
 ### Few Key [Projects/Initiatives/Product Development](https://github.com/kkm24132/Products_Projects_Initiatives/blob/main/README.md) Efforts
 
+### [Patents](https://patents.google.com/?inventor=kamalakanta+mishra&oq=kamalakanta+mishra) in Data Science and AI
+
 ### Few Recent Appearances in Public Domain 
 **Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
 
@@ -15,8 +17,8 @@ He holds a Bachelor in Computer Science from VSSUT, one year Senior Management P
 - May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
 - Dec 2017: Analytics Masterclass - [From Data to AI with Predictive Analytics](https://www.youtube.com/watch?v=ORfz0pbNQiM)
 
-
 ### [Medium.com Profile - Kamal on Blogs, PoVs](https://medium.com/@mishra.kamal)
+
 ### [Google Scholar Link - Kamal](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
 
 
