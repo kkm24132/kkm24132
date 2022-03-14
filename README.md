@@ -6,7 +6,7 @@ In the last eight to ten years, Kamal has focused on building products and solve
 
 He holds a Bachelor in Computer Science from VSSUT, one year Senior Management Program from IIM Calcutta, one year CBA/AMPBA from Indian School of Business, Hyderabad, India. He has also completed a Certification program on Predictive Analytics from IIT Hyderabad and completed a 6 month specialization in Reinforcement Learning from Indian Institute of Sciences, Bangalore.
 
-### Few Key [Projects/Initiatives/Product Development](https://github.com/kkm24132/Products_Projects_Initiatives/blob/main/README.md) Efforts
+### Few Key [Projects/Product Development](https://github.com/kkm24132/Products_Projects_Initiatives/blob/main/README.md) Efforts
 
 ### [Patents](https://patents.google.com/?inventor=kamalakanta+mishra&oq=kamalakanta+mishra) in Data Science and AI
 
