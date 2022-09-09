@@ -31,6 +31,19 @@ He holds a Bachelor in Computer Science from VSSUT, one year Senior Management P
 
 ![Kamal Clifton Strengths](https://github.com/kkm24132/kkm24132/blob/main/Kamal_Cilfton_Report.png)
 
+## Digital Transformation 
+- Priorities to move faster
+  - Need to adapt faster to compete in continuous changing environment
+  - Need to innovate to offer more value to our custoners
+  - Need to continuously improve customer experience while interacting with digital channels
+  - Need to become more resilient to respond to market disruptions
+  - Need to be more efficient and effective to achieve our business goals
+  - Need to reduce costs to improve competitiveness / value to shareholders and business owners
+  - Want to pursue more business and operational agility
+  - Need to reduce development and release cycle for our product delivery
+  - Want to strengthen our technical platforms to support better our digital offerings
+  - Need to improve value we offer to our customers and translate that to profit
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkm24132)](https://github.com/kkm24132/github-readme-stats)
 -->
