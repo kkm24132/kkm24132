@@ -12,7 +12,7 @@ He holds a Bachelor in Computer Science from VSSUT, one year Senior Management P
 
 Kamal has been focusing for all aspects of data, capitalising on the value of data - as a strategic asset including developing the overall data strategy, architecture, governance, creating and maintaining standards and best practices for data provisioning, integration and analysis.
 
-Advisory and Consulting roles:
+Advisory and Consulting role contributions/outcomes:
 - To help capitalise on the value of data as a strategic asset
 - Data strategy formulation
 - Maintaining standards and best practices
