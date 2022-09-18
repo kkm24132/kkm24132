@@ -10,6 +10,21 @@ He holds a Bachelor in Computer Science from VSSUT, one year Senior Management P
 
 ### [Patents](https://patents.google.com/?inventor=kamalakanta+mishra&oq=kamalakanta+mishra) in Data Science and AI
 
+Kamal has been focusing for all aspects of data, capitalising on the value of data - as a strategic asset including developing the overall data strategy, architecture, governance, creating and maintaining standards and best practices for data provisioning, integration and analysis.
+
+Advisory and Consulting roles:
+- To help capitalise on the value of data as a strategic asset
+- Data strategy formulation
+- Maintaining standards and best practices
+- Data storytelling
+- Hands as Senior/Principal Data Scientist to develop and apply algorithmic models to derive insights, improve decision making, and automate processes.
+- Leverage Data and AI to do automation, process transformation/process mining, digital transformation as a whole
+- AI maturity assessment frameworks
+- Industry based Analytics practices and solutions (Insurance Analytics, BFS Analytics, Retail Analytics, Healthcare Analytics, Manufacturing Analytics etc)
+- ML Deployment, MLOps and ML Observability
+- AutoML dimensions, AutoEDA and how to leverage that to augment overall solutioning
+- Responsible & Ethical AI
+
 ### Few Recent Appearances in Public Domain 
 **Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
 
