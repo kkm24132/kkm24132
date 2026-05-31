@@ -1,72 +1,52 @@
 ## Welcome to Kamal's GitHub Zone !!
 
-Kamal Mishra is a seasoned Data and AI Leader with more than two decades of experience driving digital transformation, data-led innovation, and AI-enabled business outcomes across industries. He brings a strong combination of strategic thinking, consultative leadership, deep technical expertise, and product-oriented execution to help organisations scale impactful and responsible AI solutions.
+#### Experienced Data & AI executive, builder of enterprise AI products, thought leader, inventor, and practitioner
 
-Over the last 10–12 years, Kamal has focused extensively on building enterprise-grade Data Science and AI products across Banking & Financial Services, Education, Insurance, Retail & CPG, and other sectors. His experience spans Machine Learning, Generative AI, Agentic AI systems, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), vector databases, intelligent search, conversational AI, knowledge orchestration, and AI governance frameworks. He is particularly interested in building scalable AI systems that combine human-in-the-loop design, contextual intelligence, and data-driven decision-making.
+Kamal Mishra is a Data and AI Leader with over 25 years of experience delivering digital transformation, advanced analytics, and AI-driven business outcomes across public and private sector organisations.
 
-Kamal is globally recognised as a Certified Master Data Scientist by The Open Group. His implementations and leadership experience span Predictive Maintenance, Anomaly Detection, Forecasting, Classification, Clustering, Recommender Systems, enterprise analytics platforms, and AI-driven insight generation solutions delivering measurable business impact.
+Over the past decade, he has led the design and delivery of enterprise-scale Data Science, Machine Learning, Generative AI, and Agentic AI solutions across Banking & Financial Services, Education, Insurance, Retail, and Consumer sectors. His areas of focus include Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, intelligent search, knowledge systems, AI governance, and responsible AI adoption.
 
-He holds 2 patents, 4 defensive publications, and has authored 20+ technical blogs across public platforms including Medium. He has also presented as a keynote speaker, moderated CXO forums, and actively contributes to discussions around responsible AI, enterprise transformation, and modern AI architectures.
+Kamal is a Certified Master Data Scientist (The Open Group), inventor of 2 patents, author of 4 defensive publications, and contributor of 20+ technical articles. He is passionate about building scalable, trustworthy AI systems that combine advanced analytics, human-centred design, and measurable business impact.
 
-Kamal holds a Bachelor’s degree in Computer Science from VSSUT, completed the Senior Management Program from IIM Calcutta, and the CBA/AMPBA program from the Indian School of Business (affiliated with Kellogg, Wharton, and London Business School). He has also completed a certification in Predictive Analytics from IIT Hyderabad and a specialization in Reinforcement Learning from the Indian Institute of Science (IISc), Bangalore.
+#### Key Highlights
 
-### Few Key [Projects/Product Development](https://github.com/kkm24132/Products_Projects_Initiatives/blob/main/README.md) Efforts
+- 25+ years in Data, Analytics and AI leadership
+- Certified Master Data Scientist (The Open Group)
+- 2 patents and 4 defensive publications
+- 20+ technical articles and thought leadership publications
+- Experience across BFSI, Education, Insurance, Retail and Public Sector
+- Speaker, mentor and advocate for Responsible AI and Enterprise AI adoption
 
-### [Patents](https://patents.google.com/?inventor=kamalakanta+mishra&oq=kamalakanta+mishra) in Data Science and AI
+#### Featured Work
 
-Kamal has been focusing for all aspects of data, capitalising on the value of data - as a strategic asset including developing the overall data strategy, architecture, governance, creating and maintaining standards and best practices for data provisioning, integration and analysis.
+- Projects & Product Development
+- [Patents](https://patents.google.com/?inventor=kamalakanta+mishra&oq=kamalakanta+mishra)
+- Medium Articles
+- [Google Scholar Profile](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
 
-ADVISORY and CONSULTING role contributions/outcomes:
-- THOUGHT LEADERSHIP and INNOVATION
-  - Patents, Publications and Blogs on Medium, Key note speaker sessions
-  - Formulating Data Strategy, Driving Analytics Maturity Assessments for Customers
-  - Help customers realize and capitalise on the value of data as a strategic asset  
-  - DRIVE Standards and Best Practices: CRISP-DM 
-  - Part of Data Science Board and Multiple times Data Science Profession Awards
-- LEADERSHIP in Data Science
-  - Building Practices, Mentoring and Coaching team
-- CORE Segments for SUCCESS within the TEAM
-  - Statistics and Probability
-  - DV and EDA, Storytelling
-  - Core ML areas
-  - Applied Use Case themes
-- Hands-on as Senior/Principal Data Scientist to develop and apply algorithmic models to derive insights, improve decision making, and automate processes.
-- Leverage Data and AI to do automation, process transformation/process mining, digital transformation as a whole
-- INDUSTRY based ANALYTICS practices and solutions
-  - Insurance Analytics
-  - BFS Analytics
-  - Retail Analytics
-  - Healthcare Analytics
-  - Manufacturing Analytics
-  - Oil and Gas Analytics etc.
-- ML Deployment, MLOps and ML Observability
-- AutoML dimensions, AutoEDA and how to leverage that to augment overall solutioning
-- Responsible & Ethical AI
+#### Thought Leadership
 
-### Few Past Appearances in Public Domain 
+Regular speaker and contributor across industry forums, conferences, webinars, and AI communities on topics including:
+- Enterprise AI and Generative AI
+- Agentic AI and LLM Architectures
+- Responsible AI and AI Governance
+- Data Strategy and Digital Transformation
+
+#### Connect
+
+- [Medium](https://medium.com/@mishra.kamal)
+- [Google Scholar](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/kamalmishra07/)
+- GitHub Projects - [Few Key Projects](https://github.com/kkm24132/Products_Projects_Initiatives/blob/main/README.md)
+
+
+#### Few Past Appearances in Public Domain 
 **Contributions in Data Science and AI Thought Leadership / DigiTech Sector**
 
 - June 2022: KeyNote Speaker at [ICIMSI 2022 - 2nd International Conference on IMSI](https://www.linkedin.com/posts/kamalmishra07_keynotespeaker-icimsi-icimsi2022-activity-6945941645208997888-orup/?utm_source=linkedin_share&utm_medium=member_desktop_web) and [Certification of Appreciation - Twitter Ref](https://twitter.com/KKM_007/status/1543531466256433152) on ```Value and Impact of Data Science and AI in Industry 4.0/5.0```
 - June 2021: Webinar on Trends around Data Science and focus on Responsible AI and The [YouTube Link](https://www.youtube.com/watch?v=WcsL7qs4nuY)
 - May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
 - Dec 2017: Analytics Masterclass - [From Data to AI with Predictive Analytics](https://www.youtube.com/watch?v=ORfz0pbNQiM)
-
-### [Medium.com Profile - Kamal on Blogs, PoVs](https://medium.com/@mishra.kamal)
-
-### [Google Scholar Link - Kamal](https://scholar.google.com/citations?user=lc84CA0AAAAJ&hl=en)
-
-
-👋
-
-![Kamal GitHub stats](https://github-readme-stats.vercel.app/api?username=kkm24132&show_icons=true&theme=vue)
-
-## KAMAL's Clifton Assessment Report
-
-![Kamal Clifton Strengths](https://github.com/kkm24132/kkm24132/blob/main/Kamal_Cilfton_Report.png)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkm24132)](https://github.com/kkm24132/github-readme-stats)
--->
 
 
 <!--
