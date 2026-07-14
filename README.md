@@ -42,6 +42,7 @@ Regular speaker and contributor across industry forums, conferences, webinars, a
 
 #### Selected Speaking Engagements 
 
+- 2023 to Current: Guest Speaker on Data Science and AI Strategy, Applications, Responsible AI - at Deakin University
 - June 2022: KeyNote Speaker at [ICIMSI 2022 - 2nd International Conference on IMSI](https://www.linkedin.com/posts/kamalmishra07_keynotespeaker-icimsi-icimsi2022-activity-6945941645208997888-orup/?utm_source=linkedin_share&utm_medium=member_desktop_web) and [Certification of Appreciation - Twitter Ref](https://twitter.com/KKM_007/status/1543531466256433152) on ```Value and Impact of Data Science and AI in Industry 4.0/5.0```
 - June 2021: Webinar on Trends around Data Science and focus on Responsible AI and The [YouTube Link](https://www.youtube.com/watch?v=WcsL7qs4nuY)
 - May 2021: Panel Discussion at Kaggle Days Meetup Delhi NCR Chapter on [Data Science Ecosystem and Hiring Prospects in India](https://www.youtube.com/watch?v=uY4Pq6rMwpU&t=30s)
